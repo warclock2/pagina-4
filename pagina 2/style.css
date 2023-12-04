@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+    background-image: url("turismo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  header {
+    background-color: #e9d9d9;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 2em;
+    font-weight: bold;
+  }
+  
+  img {
+    max-width: 10%;
+  }
+  
+  main {
+    margin: 0 auto;
+    width: 900px;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #000000;
+  }
+  
+  section.destinos {
+    background-color: #ffffff;
+  }
+  
+  section.tours {
+    background-color: #f0f0f0;
+  }
+  
+  section.contacto {
+    background-color: #ffffff;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 20px;
+  }
+  
